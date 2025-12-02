@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Abstract colorful lines",
+      "imageUrl": "https://images.unsplash.com/photo-1610466896927-699424f3c86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGNvZGV8ZW58MHx8fHwxNzY0NTk0ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract code"
+    },
+    {
+      "id": "project-2",
+      "description": "A laptop on a desk",
+      "imageUrl": "https://images.unsplash.com/photo-1722159475028-d38e511f7853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29ya3NwYWNlJTIwdGVjaHxlbnwwfHx8fDE3NjQ2NzExMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "workspace tech"
+    },
+    {
+      "id": "project-3",
+      "description": "Server room with glowing lights",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhJTIwY2VudGVyfGVufDB8fHx8MTc2NDY1MDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data center"
+    }
+  ]
 }
