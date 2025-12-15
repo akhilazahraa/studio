@@ -18,16 +18,16 @@ export const skills = [
 
 export const experience = [
   {
-    role: 'Senior UI/UX Designer',
-    company: 'Creative Solutions Inc.',
-    period: '2020 - Present',
-    description: 'Led the design of several high-traffic web applications, mentored junior designers, and improved our design system and workflow.'
+    role: 'UI/UX Designer (Internship)',
+    company: 'Dinas Komunikasi dan Informatika Jawa Tengah',
+    period: 'Jan 2024 - Jan 2024',
+    description: 'Designed user-centered interfaces for the e-Fasilitasi web application, focusing on usability and visual consistency. I conducted user flow mapping, wireframing, and high-fidelity prototyping, collaborating with developers on implementation.'
   },
   {
-    role: 'UI/UX Designer',
-    company: 'Pixel Perfect Studios',
-    period: '2018 - 2020',
-    description: 'Developed and maintained client websites using modern web technologies.'
+    role: 'Graphic Design (Internship)',
+    company: 'Dinas Lingkungan Hidup Kota Semarang',
+    period: 'Jan 2021 - Jan 2021',
+    description: 'Designed layouts for Temporary Waste Disposal Sites, produced operational maps, compiled waste collection records, and created a corporate video highlighting employee activities.'
   }
 ];
 
