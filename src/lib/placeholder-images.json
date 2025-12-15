@@ -3,20 +3,38 @@
     {
       "id": "project-1",
       "description": "Abstract colorful lines",
-      "imageUrl": "https://images.unsplash.com/photo-1610466896927-699424f3c86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGNvZGV8ZW58MHx8fHwxNzY0NTk0ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "abstract code"
+      "imageUrl": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3ZWIlMjBhcHBsaWNhdGlvbnxlbnwwfHx8fDE3NjU2ODM3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web application"
     },
     {
       "id": "project-2",
       "description": "A laptop on a desk",
-      "imageUrl": "https://images.unsplash.com/photo-1722159475028-d38e511f7853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29ya3NwYWNlJTIwdGVjaHxlbnwwfHx8fDE3NjQ2NzExMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "workspace tech"
+      "imageUrl": "https://images.unsplash.com/photo-1623915695133-d624f7759fd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2JpbGUlMjBhc3Npc3RpdmV8ZW58MHx8fHwxNzY1ODAxMDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile assistive"
     },
     {
       "id": "project-3",
       "description": "Server room with glowing lights",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhJTIwY2VudGVyfGVufDB8fHx8MTc2NDY1MDk2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "data center"
+      "imageUrl": "https://images.unsplash.com/photo-1761864294727-3c9f6b3e7425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MXwxfHNlYXJjaHw4fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NjU3MjMzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    },
+    {
+      "id": "project-4",
+      "description": "Students collaborating",
+      "imageUrl": "https://images.unsplash.com/photo-1609985544667-cac285359faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2JpbGUlMjBjb2xsYWJvcmF0aW9ufGVufDB8fHx8MTc2NTgwMTA5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile collaboration"
+    },
+    {
+      "id": "project-5",
+      "description": "Person looking for a job on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1719938073286-437141b562e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBqb2J8ZW58MHx8fHwxNzY1ODAxMDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile job"
+    },
+    {
+      "id": "project-6",
+      "description": "Colorful display of fruits",
+      "imageUrl": "https://images.unsplash.com/photo-1522125670776-3c7abb882bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2JpbGUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NjU3MjAzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile shopping"
     }
   ]
 }

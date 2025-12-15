@@ -4,7 +4,7 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { Button } from "@/components/ui/button";
 import { projects } from "@/lib/data";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { ExternalLink, Github } from "lucide-react";
+import { ExternalLink } from "lucide-react";
 
 export default function ProjectsSection() {
   const getImage = (id: string) => PlaceHolderImages.find(img => img.id === id);
@@ -39,12 +39,6 @@ export default function ProjectsSection() {
                   <p className="text-muted-foreground">{project.description}</p>
                 </CardContent>
                 <CardFooter className="flex justify-start gap-4">
-                  <Button asChild variant="outline">
-                    <Link href={project.githubUrl} target="_blank" rel="noopener noreferrer">
-                      <Github />
-                      GitHub
-                    </Link>
-                  </Button>
                   <Button asChild>
                     <Link href={project.liveUrl} target="_blank" rel="noopener noreferrer">
                       <ExternalLink />

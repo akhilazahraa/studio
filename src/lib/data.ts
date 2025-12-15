@@ -21,39 +21,61 @@ export const experience = [
     role: 'UI/UX Designer (Internship)',
     company: 'Dinas Komunikasi dan Informatika Jawa Tengah',
     period: 'Jan 2024 - Jan 2024',
-    description: 'Designed user-centered interfaces for the e-Fasilitasi web application, focusing on usability and visual consistency. I conducted user flow mapping, wireframing, and high-fidelity prototyping, collaborating with developers on implementation.'
+    description: 'Designed user-centered interfaces for the e-Fasilitasi web application at Diskominfo by focusing on usability, accessibility, and consistent visual design. Conducted user flow mapping, wireframing, and high-fidelity prototyping to support internal facilitation processes, while collaborating closely with developers to ensure accurate implementation within a Laravel-based system and alignment with Diskominfo’s branding guidelines.'
   },
   {
     role: 'Graphic Design (Internship)',
     company: 'Dinas Lingkungan Hidup Kota Semarang',
     period: 'Jan 2021 - Jan 2021',
-    description: 'Designed layouts for Temporary Waste Disposal Sites, produced operational maps, compiled waste collection records, and created a corporate video highlighting employee activities.'
+    description: 'Designed layout plans for Temporary Waste Disposal Sites (TPS) across multiple areas in Semarang City, including Kedungmundu, Banyumanik, and Tembalang Districts; produced operational map designs; compiled daily waste collection records for garbage trucks; and created a corporate video highlighting employee activities at UPTD DLH Region III.'
   }
 ];
 
 export const projects = [
   {
-    title: 'E-commerce Platform',
-    description: 'A full-featured e-commerce platform with a custom CMS, payment gateway integration, and a recommendation engine. Built with Next.js, TypeScript, and PostgreSQL.',
+    title: 'e-Fasilitasi Web Application',
+    description: 'Designed user-centered interfaces for the e-Fasilitasi web application, a platform that facilitates official facilitation activities managed by the Central Java Provincial Office of Communication and Informatics (Diskominfo Provinsi Jawa Tengah).',
     image: 'project-1',
     githubUrl: '#',
-    liveUrl: '#',
+    liveUrl: 'https://www.figma.com/design/bHE6Y2CvqxWG1Yjm8TuGqn/UI-E-FASILITASI?node-id=0-1&t=zLtitoLnSQzhuk9I-1',
   },
   {
-    title: 'Project Management Tool',
-    description: 'A collaborative project management tool that helps teams organize tasks, track progress, and communicate effectively. Features real-time updates using WebSockets.',
+    title: 'DIPOASSIST Mobile Application',
+    description: 'Designed the UI for DIPOASSIST, an assistive mobile application that supports communication for stroke patients by converting physiological signals into readable text or speech, while also enabling monitoring features for families and caregivers.',
     image: 'project-2',
     githubUrl: '#',
-    liveUrl: '#',
+    liveUrl: 'https://www.figma.com/design/jMmaO0KL4aQtcNkFLALwRd/UI-UX-Mobile-APPS-DIPOASSIST?node-id=9-2&t=wlf5VYGH1ktzCiyH-1',
   },
   {
-    title: 'Personal Blog',
-    description: 'A statically generated blog using Next.js and MDX. Features a clean design, dark mode, and fast performance. Deployed on Vercel.',
+    title: 'Instagram Feed Design – Faculty of Engineering, Diponegoro University',
+    description: 'Created visually consistent and engaging Instagram feed designs for a student organization under the Faculty of Engineering, Diponegoro University, aligned with branding and communication goals.',
     image: 'project-3',
     githubUrl: '#',
-    liveUrl: '#',
+    liveUrl: 'https://www.figma.com/design/DuY7sWbwqweegYfCHMYpQc/ABHIRAKI-S-INSTAGRAM-FEEDS?node-id=0-1&t=Wcabo7zyjoDF83fV-1',
   },
+  {
+    title: 'Competition Partner Finder Mobile App',
+    description: 'Designed the UI for a mobile application that helps university students find teammates or partners for academic and non-academic competitions based on interests and skills.',
+    image: 'project-4',
+    githubUrl: '#',
+    liveUrl: 'https://www.figma.com/design/DhvKGXenkdf46ZuhjLb5ls/UI-CARI-LOMBA-APPS?node-id=0-1&t=fkfMmm3eDdebog62-1',
+  },
+  {
+    title: 'FoundJob Mobile Application',
+    description: 'Designed the UI for FoundJob, a mobile application aimed at helping users search and apply for job opportunities efficiently through a clean and intuitive interface.',
+    image: 'project-5',
+    githubUrl: '#',
+    liveUrl: 'https://www.figma.com/design/kIg4ktPfBRojhoNRCjDbwh/UI-FOUND-JOB-MOBILE-APPS?node-id=0-1&t=fkfMmm3eDdebog62-1',
+  },
+  {
+    title: 'Fruit Store Mobile Application',
+    description: 'Designed the UI for a mobile fruit store application, focusing on product display, ease of navigation, and a smooth purchasing experience.',
+    image: 'project-6',
+    githubUrl: '#',
+    liveUrl: 'https://www.figma.com/design/r53E95dQzHluCip0XsdA36/UI-MOBILE-TOKO-BUAH?t=fkfMmm3eDdebog62-1',
+  }
 ];
+
 
 export const contact = {
   email: 'hello@nextfolio.com',
