@@ -1,32 +1,31 @@
 import { Github, Linkedin, Twitter } from 'lucide-react';
 
 export const about = {
-  name: 'Alex Doe',
-  title: 'Full Stack Developer',
-  introduction: "I'm a passionate developer with a love for building innovative and user-friendly web applications. I specialize in the Next.js ecosystem and enjoy tackling complex problems to create seamless digital experiences.",
+  name: 'Akhila Zahra',
+  title: 'UI/UX Designer',
+  introduction: "I'm a passionate UI/UX Designer with a love for creating intuitive, beautiful, and user-centered digital experiences. I specialize in the design process from concept to final polish, using a variety of tools to bring ideas to life.",
 };
 
 export const skills = [
-  { name: 'React' },
-  { name: 'Next.js' },
-  { name: 'TypeScript' },
-  { name: 'Node.js' },
-  { name: 'PostgreSQL' },
-  { name: 'Tailwind CSS' },
-  { name: 'Docker' },
-  { name: 'Go' },
+  { name: 'Adobe Illustrator' },
+  { name: 'Adobe Photoshop' },
+  { name: 'Figma' },
+  { name: 'Canva' },
+  { name: 'Jira' },
+  { name: 'After Effects' },
+  { name: 'Premiere Pro' },
 ];
 
 export const experience = [
   {
-    role: 'Senior Developer',
-    company: 'Tech Solutions Inc.',
+    role: 'Senior UI/UX Designer',
+    company: 'Creative Solutions Inc.',
     period: '2020 - Present',
-    description: 'Led the development of several high-traffic web applications, mentored junior developers, and improved our CI/CD pipeline.'
+    description: 'Led the design of several high-traffic web applications, mentored junior designers, and improved our design system and workflow.'
   },
   {
-    role: 'Web Developer',
-    company: 'Digital Creations LLC',
+    role: 'UI/UX Designer',
+    company: 'Pixel Perfect Studios',
     period: '2018 - 2020',
     description: 'Developed and maintained client websites using modern web technologies.'
   }
