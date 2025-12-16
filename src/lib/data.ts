@@ -148,7 +148,8 @@ export const contact = {
 };
 
 export const navigationLinks = [
-  { name: 'About', href: '#about' },
+  { name: 'Skills', href: '#skills' },
+  { name: 'Experience', href: '#experience' },
   { name: 'Projects', href: '#projects' },
   { name: 'Certifications', href: '#certifications' },
   { name: 'Contact', href: '#contact' },
