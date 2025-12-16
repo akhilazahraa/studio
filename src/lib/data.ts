@@ -1,4 +1,5 @@
 import { Github, Linkedin, Twitter } from 'lucide-react';
+import { IllustratorIcon, PhotoshopIcon, FigmaIcon, CanvaIcon, JiraIcon, AfterEffectsIcon, PremiereProIcon } from '@/components/skill-icons';
 
 export const about = {
   name: 'Akhila Zahra',
@@ -7,13 +8,13 @@ export const about = {
 };
 
 export const skills = [
-  { name: 'Adobe Illustrator' },
-  { name: 'Adobe Photoshop' },
-  { name: 'Figma' },
-  { name: 'Canva' },
-  { name: 'Jira' },
-  { name: 'After Effects' },
-  { name: 'Premiere Pro' },
+  { name: 'Adobe Illustrator', icon: IllustratorIcon },
+  { name: 'Adobe Photoshop', icon: PhotoshopIcon },
+  { name: 'Figma', icon: FigmaIcon },
+  { name: 'Canva', icon: CanvaIcon },
+  { name: 'Jira', icon: JiraIcon },
+  { name: 'After Effects', icon: AfterEffectsIcon },
+  { name: 'Premiere Pro', icon: PremiereProIcon },
 ];
 
 export const experience = [

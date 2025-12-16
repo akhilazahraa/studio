@@ -12,7 +12,8 @@ export default function AboutSection() {
             <h3 className="text-2xl font-semibold">Skills</h3>
             <div className="mt-6 flex flex-wrap gap-2">
               {skills.map((skill) => (
-                <Badge key={skill.name} variant="secondary" className="text-sm px-3 py-1">
+                <Badge key={skill.name} variant="secondary" className="text-sm px-3 py-1 flex items-center gap-2">
+                  <skill.icon className="h-4 w-4" />
                   {skill.name}
                 </Badge>
               ))}
