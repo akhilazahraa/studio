@@ -18,10 +18,34 @@ export const skills = [
 
 export const experience = [
   {
+    role: 'Treasurer',
+    company: 'AL-Muharrik Teknik Komputer',
+    period: 'Mei 2024 - Mei 2025',
+    description: 'Handled financial management, including budgeting, cash flow tracking, and recording income and expenditures to ensure transparent and accountable organizational finances.'
+  },
+  {
+    role: 'Deputy Head of Multimedia Division',
+    company: 'Computer Engineering Research Club',
+    period: 'Jan 2024 - Jan 2025',
+    description: 'Conducted training sessions on digital design and multimedia production using Adobe Illustrator, Photoshop, Figma, and Canva, and provided hands-on instruction in video editing and content production with Adobe Premiere Pro.'
+  },
+  {
+    role: 'Head of Student Welfare Division',
+    company: 'Himpunan Mahasiswa Teknik Komputer',
+    period: 'Jan 2024 - Jan 2025',
+    description: 'Provided academic and career-related services to Computer Engineering students by delivering relevant information and guidance, enhancing awareness of professional and industry opportunities, and serving as a channel for student aspirations in both academic and non-academic matters within the program.'
+  },
+  {
     role: 'UI/UX Designer (Internship)',
     company: 'Dinas Komunikasi dan Informatika Jawa Tengah',
     period: 'Jan 2024 - Jan 2024',
     description: 'Designed user-centered interfaces for the e-Fasilitasi web application at Diskominfo by focusing on usability, accessibility, and consistent visual design. Conducted user flow mapping, wireframing, and high-fidelity prototyping to support internal facilitation processes, while collaborating closely with developers to ensure accurate implementation within a Laravel-based system and alignment with Diskominfo’s branding guidelines.'
+  },
+  {
+    role: 'Creative Media Division Expert Staff',
+    company: 'Forum Studi Teknik',
+    period: 'Jan 2024 - Jan 2024',
+    description: 'Evaluated and monitored the performance and work programs of junior staff in the Faculty of Science and Technology (FST) Creative Media Division, while reviewing and refining design outputs for FST Instagram content to ensure quality and consistency.'
   },
   {
     role: 'Graphic Design (Internship)',
