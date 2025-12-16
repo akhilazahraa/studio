@@ -32,7 +32,6 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <Logo className="h-6 w-6 text-primary" />
-            <span className="font-bold text-lg">Nextfolio</span>
           </Link>
           <nav className="hidden md:flex md:items-center md:gap-6">
             {navigationLinks.map((link) => (
@@ -58,7 +57,6 @@ export default function Header() {
                   <div className="flex justify-between items-center py-2 border-b">
                     <Link href="/" className="flex items-center gap-2" onClick={() => setMobileMenuOpen(false)}>
                       <Logo className="h-6 w-6 text-primary" />
-                      <span className="font-bold text-lg">Nextfolio</span>
                     </Link>
                      <Button variant="ghost" size="icon" onClick={() => setMobileMenuOpen(false)}>
                         <X className="h-6 w-6" />
