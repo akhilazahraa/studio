@@ -1,5 +1,4 @@
 import { Github, Linkedin, Twitter } from 'lucide-react';
-import { IllustratorIcon, PhotoshopIcon, FigmaIcon, CanvaIcon, JiraIcon, AfterEffectsIcon, PremiereProIcon } from '@/components/skill-icons';
 
 export const about = {
   name: 'Akhila Zahra',
@@ -8,13 +7,13 @@ export const about = {
 };
 
 export const skills = [
-  { name: 'Adobe Illustrator', icon: IllustratorIcon },
-  { name: 'Adobe Photoshop', icon: PhotoshopIcon },
-  { name: 'Figma', icon: FigmaIcon },
-  { name: 'Canva', icon: CanvaIcon },
-  { name: 'Jira', icon: JiraIcon },
-  { name: 'After Effects', icon: AfterEffectsIcon },
-  { name: 'Premiere Pro', icon: PremiereProIcon },
+  { name: 'Adobe Illustrator', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg' },
+  { name: 'Adobe Photoshop', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-photoshop-icon.svg' },
+  { name: 'Figma', icon: 'https://cdn.worldvectorlogo.com/logos/figma-1.svg' },
+  { name: 'Canva', icon: 'https://cdn.worldvectorlogo.com/logos/canva.svg' },
+  { name: 'Jira', icon: 'https://cdn.worldvectorlogo.com/logos/jira-1.svg' },
+  { name: 'After Effects', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-after-effects-cc-icon.svg' },
+  { name: 'Premiere Pro', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc.svg' },
 ];
 
 export const experience = [
