@@ -155,6 +155,12 @@ export const tutorials = [
     description: 'A comprehensive guide to the fundamental principles of UI/UX design, including hierarchy, contrast, and user-centered design.',
     image: 'tutorial-3',
     url: '#',
+  },
+  {
+    title: 'How to Download the Full Source Code',
+    description: 'A step-by-step guide on how to download the complete source code of your project from Firebase Studio.',
+    image: 'tutorial-4',
+    url: '#',
   }
 ];
 
