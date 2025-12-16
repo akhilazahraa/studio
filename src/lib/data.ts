@@ -89,7 +89,6 @@ export const contact = {
 export const navigationLinks = [
   { name: 'About', href: '#about' },
   { name: 'Projects', href: '#projects' },
-  { name: 'AI Assistant', href: '#ai-assistant' },
   { name: 'Contact', href: '#contact' },
 ];
 
