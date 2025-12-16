@@ -76,35 +76,40 @@ export const certifications = [
       issuer: 'Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka',
       date: 'Januari 2025',
       credential: 'BA24/GRAD/XXIV01/C200B4KX0284',
-      description: 'Developed Zerostunt, a mobile-based stunting prevention application utilizing machine learning to predict children’s daily caloric intake.'
+      description: 'Developed Zerostunt, a mobile-based stunting prevention application utilizing machine learning to predict children’s daily caloric intake.',
+      image: 'cert-1',
     },
     {
       title: 'HCIA-AI V3.5 Course',
       issuer: 'Huawei ICT Academy',
       date: 'Desember 2024',
       credential: '-',
-      description: 'Completed Huawei-certified training on AI fundamentals, including machine learning, deep learning, and data preprocessing.'
+      description: 'Completed Huawei-certified training on AI fundamentals, including machine learning, deep learning, and data preprocessing.',
+      image: 'cert-2',
     },
     {
       title: 'CCNAv7: Switching, Routing, and Wireless Essentials',
       issuer: 'Cisco Networking Academy',
       date: 'Agustus 2024',
       credential: '-',
-      description: 'Gained hands-on knowledge in switching, routing, VLANs, wireless networking, and basic network security.'
+      description: 'Gained hands-on knowledge in switching, routing, VLANs, wireless networking, and basic network security.',
+      image: 'cert-3',
     },
     {
       title: 'CCNAv7: Introduction to Networks',
       issuer: 'Cisco Networking Academy',
       date: 'Januari 2024',
       credential: '-',
-      description: 'Learned fundamental networking concepts such as IP addressing, OSI/TCP/IP models, Ethernet, and basic network security.'
+      description: 'Learned fundamental networking concepts such as IP addressing, OSI/TCP/IP models, Ethernet, and basic network security.',
+      image: 'cert-4',
     },
     {
       title: 'Database Design Learner',
       issuer: 'ORACLE Academy',
       date: 'Januari 2024',
       credential: '-',
-      description: 'Learned core database design principles, including ERD, normalization, and relational database'
+      description: 'Learned core database design principles, including ERD, normalization, and relational database',
+      image: 'cert-5',
     }
 ];
 

@@ -35,6 +35,36 @@
       "description": "Colorful display of fruits",
       "imageUrl": "https://images.unsplash.com/photo-1522125670776-3c7abb882bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2JpbGUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NjU3MjAzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mobile shopping"
+    },
+    {
+      "id": "cert-1",
+      "description": "Abstract brain",
+      "imageUrl": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjBjb21wdXRpbmd8ZW58MHx8fHwxNzY1ODgyODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud computing"
+    },
+    {
+      "id": "cert-2",
+      "description": "Abstract AI",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc2NTgwODEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "cert-3",
+      "description": "Network switches",
+      "imageUrl": "https://images.unsplash.com/photo-1564954383507-17c1273170e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxuZXR3b3JrJTIwcm91dGluZ3xlbnwwfHx8fDE3NjU4OTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "network routing"
+    },
+    {
+      "id": "cert-4",
+      "description": "Network cables",
+      "imageUrl": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc2NTg5MzEwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "networking"
+    },
+    {
+      "id": "cert-5",
+      "description": "Database diagram",
+      "imageUrl": "https://images.unsplash.com/photo-1580978607743-88f9166e4096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhYmFzZSUyMGRlc2lnbnxlbnwwfHx8fDE3NjU4OTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "database design"
     }
   ]
 }
