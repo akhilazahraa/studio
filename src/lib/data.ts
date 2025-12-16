@@ -137,6 +137,26 @@ export const certifications = [
     }
 ];
 
+export const tutorials = [
+  {
+    title: 'Introduction to Figma',
+    description: 'A beginner-friendly tutorial on the basics of Figma, covering the interface, tools, and how to create your first design.',
+    image: 'tutorial-1',
+    url: '#',
+  },
+  {
+    title: 'Advanced Prototyping in Figma',
+    description: 'Learn how to create complex and interactive prototypes in Figma with smart animate, variables, and conditional logic.',
+    image: 'tutorial-2',
+    url: '#',
+  },
+  {
+    title: 'UI/UX Design Principles',
+    description: 'A comprehensive guide to the fundamental principles of UI/UX design, including hierarchy, contrast, and user-centered design.',
+    image: 'tutorial-3',
+    url: '#',
+  }
+];
 
 export const contact = {
   email: 'hello@nextfolio.com',
@@ -149,9 +169,10 @@ export const contact = {
 
 export const navigationLinks = [
   { name: 'Skills', href: '#skills' },
-  { name: 'Experience', href: '#experience' },
   { name: 'Projects', href: '#projects' },
+  { name: 'Experience', href: '#experience' },
   { name: 'Certifications', href: '#certifications' },
+  { name: 'Tutorials', href: '#tutorials' },
   { name: 'Contact', href: '#contact' },
 ];
 
