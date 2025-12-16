@@ -6,8 +6,8 @@ import { Menu, X } from "lucide-react";
 import { navigationLinks } from "@/lib/data";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import Logo from "./logo";
 import { cn } from "@/lib/utils";
+import { about } from "@/lib/data";
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = React.useState(false);
@@ -30,8 +30,8 @@ export default function Header() {
     >
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Logo className="h-6 w-6 text-primary" />
+          <Link href="/" className="flex items-center gap-2 font-bold text-lg">
+            {about.name}
           </Link>
           <nav className="hidden md:flex md:items-center md:gap-6">
             {navigationLinks.map((link) => (
@@ -55,8 +55,8 @@ export default function Header() {
               <SheetContent side="right" className="w-full">
                 <div className="flex flex-col h-full">
                   <div className="flex justify-between items-center py-2 border-b">
-                    <Link href="/" className="flex items-center gap-2" onClick={() => setMobileMenuOpen(false)}>
-                      <Logo className="h-6 w-6 text-primary" />
+                    <Link href="/" className="flex items-center gap-2 font-bold text-lg" onClick={() => setMobileMenuOpen(false)}>
+                      {about.name}
                     </Link>
                      <Button variant="ghost" size="icon" onClick={() => setMobileMenuOpen(false)}>
                         <X className="h-6 w-6" />

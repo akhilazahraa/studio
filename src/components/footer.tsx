@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { contact } from "@/lib/data";
 import { Button } from "@/components/ui/button";
-import Logo from "./logo";
+import { about } from "@/lib/data";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -11,9 +11,9 @@ export default function Footer() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
-            <Logo className="h-5 w-5 text-primary" />
+  
             <span className="text-sm text-muted-foreground">
-              &copy; {currentYear} Nextfolio. All rights reserved.
+              &copy; {currentYear} Khilafolio. All rights reserved.
             </span>
           </div>
           <div className="flex gap-2">

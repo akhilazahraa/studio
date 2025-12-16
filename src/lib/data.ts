@@ -7,13 +7,13 @@ export const about = {
 };
 
 export const skills = [
-  { name: 'Adobe Illustrator', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg' },
-  { name: 'Adobe Photoshop', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-photoshop-icon.svg' },
-  { name: 'Figma', icon: 'https://cdn.worldvectorlogo.com/logos/figma-1.svg' },
-  { name: 'Canva', icon: 'https://cdn.worldvectorlogo.com/logos/canva.svg' },
+  { name: 'Adobe Illustrator', icon: '/ai.png' },
+  { name: 'Adobe Photoshop', icon: '/ps.png' },
+  { name: 'Figma', icon: '/figma.png' },
+  { name: 'Canva', icon: '/canva.png' },
   { name: 'Jira', icon: 'https://cdn.worldvectorlogo.com/logos/jira-1.svg' },
-  { name: 'After Effects', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-after-effects-cc-icon.svg' },
-  { name: 'Premiere Pro', icon: 'https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc.svg' },
+  { name: 'After Effects', icon: '/ae.png' },
+  { name: 'Premiere Pro', icon: '/pr.png' },
 ];
 
 export const experience = [
@@ -63,8 +63,8 @@ export const projects = [
     liveUrl: 'https://www.figma.com/design/bHE6Y2CvqxWG1Yjm8TuGqn/UI-E-FASILITASI?node-id=0-1&t=zLtitoLnSQzhuk9I-1',
   },
   {
-    title: 'DIPOASSIST Mobile Application',
-    description: 'Designed the UI for DIPOASSIST, an assistive mobile application that supports communication for stroke patients by converting physiological signals into readable text or speech, while also enabling monitoring features for families and caregivers.',
+    title: 'DipoAssist Mobile Application',
+    description: 'Designed the UI for DipoAssist, an assistive mobile application that supports communication for stroke patients by converting physiological signals into readable text or speech, while also enabling monitoring features for families and caregivers.',
     image: 'project-2',
     liveUrl: 'https://www.figma.com/design/jMmaO0KL4aQtcNkFLALwRd/UI-UX-Mobile-APPS-DIPOASSIST?node-id=9-2&t=wlf5VYGH1ktzCiyH-1',
   },
@@ -138,11 +138,10 @@ export const certifications = [
 ];
 
 export const contact = {
-  email: 'hello@nextfolio.com',
+  email: 'akhilazahra03@gmail.com',
   socials: [
-    { name: 'GitHub', url: '#', icon: Github },
-    { name: 'LinkedIn', url: '#', icon: Linkedin },
-    { name: 'Twitter', url: '#', icon: Twitter },
+    { name: 'GitHub', url: 'https://github.com/akhilazahraa', icon: Github },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/akhila-zahra-01564a336/', icon: Linkedin },
   ],
 };
 

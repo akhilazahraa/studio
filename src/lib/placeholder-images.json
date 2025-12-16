@@ -3,67 +3,67 @@
     {
       "id": "project-1",
       "description": "Abstract colorful lines",
-      "imageUrl": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3ZWIlMjBhcHBsaWNhdGlvbnxlbnwwfHx8fDE3NjU2ODM3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/fasil.png",
       "imageHint": "web application"
     },
     {
       "id": "project-2",
       "description": "A laptop on a desk",
-      "imageUrl": "https://images.unsplash.com/photo-1623915695133-d624f7759fd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2JpbGUlMjBhc3Npc3RpdmV8ZW58MHx8fHwxNzY1ODAxMDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/dipo.png",
       "imageHint": "mobile assistive"
     },
     {
       "id": "project-3",
       "description": "Server room with glowing lights",
-      "imageUrl": "https://images.unsplash.com/photo-1761864294727-3c9f6b3e7425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MXwxfHNlYXJjaHw4fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NjU3MjMzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/fst.png",
       "imageHint": "social media"
     },
     {
       "id": "project-4",
       "description": "Students collaborating",
-      "imageUrl": "https://images.unsplash.com/photo-1609985544667-cac285359faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2JpbGUlMjBjb2xsYWJvcmF0aW9ufGVufDB8fHx8MTc2NTgwMTA5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/kerja.png",
       "imageHint": "mobile collaboration"
     },
     {
       "id": "project-5",
       "description": "Person looking for a job on a phone",
-      "imageUrl": "https://images.unsplash.com/photo-1719938073286-437141b562e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBqb2J8ZW58MHx8fHwxNzY1ODAxMDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/lomba.png",
       "imageHint": "mobile job"
     },
     {
       "id": "project-6",
       "description": "Colorful display of fruits",
-      "imageUrl": "https://images.unsplash.com/photo-1522125670776-3c7abb882bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2JpbGUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NjU3MjAzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/buah.png",
       "imageHint": "mobile shopping"
     },
     {
       "id": "cert-1",
       "description": "Abstract brain",
-      "imageUrl": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2xvdWQlMjBjb21wdXRpbmd8ZW58MHx8fHwxNzY1ODgyODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/bangkit.png",
       "imageHint": "cloud computing"
     },
     {
       "id": "cert-2",
       "description": "Abstract AI",
-      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc2NTgwODEzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/huaw.png",
       "imageHint": "artificial intelligence"
     },
     {
       "id": "cert-3",
       "description": "Network switches",
-      "imageUrl": "https://images.unsplash.com/photo-1564954383507-17c1273170e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxuZXR3b3JrJTIwcm91dGluZ3xlbnwwfHx8fDE3NjU4OTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/router.png",
       "imageHint": "network routing"
     },
     {
       "id": "cert-4",
       "description": "Network cables",
-      "imageUrl": "https://images.unsplash.com/photo-1560439514-4e9645039924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZXR3b3JraW5nfGVufDB8fHx8MTc2NTg5MzEwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/intro1.png",
       "imageHint": "networking"
     },
     {
       "id": "cert-5",
       "description": "Database diagram",
-      "imageUrl": "https://images.unsplash.com/photo-1580978607743-88f9166e4096?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhYmFzZSUyMGRlc2lnbnxlbnwwfHx8fDE3NjU4OTMxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/oracle.png",
       "imageHint": "database design"
     }
   ]

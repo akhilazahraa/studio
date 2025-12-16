@@ -9,7 +9,7 @@ export default function HeroSection() {
     <section id="home" className="relative h-screen flex items-center justify-center">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center flex flex-col items-center">
         <Image
-          src="https://i.imgur.com/gK6YA24.png"
+          src="/foto.png"
           alt="Akhila Zahra"
           width={200}
           height={200}
