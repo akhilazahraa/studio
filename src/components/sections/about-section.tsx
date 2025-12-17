@@ -10,7 +10,7 @@ export default function SkillsSection() {
         <div className="mt-16 flex flex-wrap gap-4 justify-center">
           {skills.map((skill) => (
             <Badge key={skill.name} variant="secondary" className="text-sm px-4 py-2 flex items-center gap-2">
-              <Image src={skill.icon} alt={`${skill.name} logo`} width={18} height={18} className="h-5 w-5" />
+              <Image src={skill.icon} alt={`${skill.name} logo`} width={35} height={35} className="h-10 w-15" />
               {skill.name}
             </Badge>
           ))}

@@ -2,8 +2,8 @@ import { Github, Linkedin, Twitter } from 'lucide-react';
 
 export const about = {
   name: 'Akhila Zahra',
-  title: 'UI/UX Designer',
-  introduction: "I'm a passionate UI/UX Designer with a love for creating intuitive, beautiful, and user-centered digital experiences. I specialize in the design process from concept to final polish, using a variety of tools to bring ideas to life.",
+  title: 'UI/UX Designer & Front End Engineer',
+  introduction: "I'm a passionate UI/UX Designer and Front End Engineer with a strong interest in creating intuitive, visually appealing, and user-centered digital experiences. I specialize in translating design concepts into functional interfaces, handling the process from ideation and design to front-end implementation using various tools and technologies to bring ideas to life.",
 };
 
 export const skills = [
@@ -14,6 +14,11 @@ export const skills = [
   { name: 'Jira', icon: 'https://cdn.worldvectorlogo.com/logos/jira-1.svg' },
   { name: 'After Effects', icon: '/ae.png' },
   { name: 'Premiere Pro', icon: '/pr.png' },
+  { name: 'PHP', icon: '/php.png' },
+  { name: 'Next.js', icon: '/nextjs.png' },
+  { name: 'Google Colab', icon: '/colab.png' },
+  { name: 'Scikit-learn', icon: '/sklearn.png' },
+  { name: 'Postman', icon: '/post.png' },
 ];
 
 export const experience = [
